@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The web site of strawberrycola</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body style="background-color: pink;" 
+    <h1>Welcome to my Website! </h1>
+    <h3> It's currently still under construction, but I give it a week before I make anything bareable to look at</h3>
 
+
+    <p>This is a paragraph! Here's how you make a link: <a href="https://neocities.org">Neocities</a>.</p>
+
+    <p>Here's how you can make <strong>bold</strong> and <em>italic</em> text.</p>
+
+    <p>Here's how you can add an image:</p>
+    <img src="/neocities.png">
+    
+    <p>~~~~~~~~~~~~~</p>
+      <img src="/paint.png">
+
+    <h2>Stuff I'll try to get done</h2>
+    <ul>
+      <li>First thing: Add a colored background</li>
+      <li>Second thing:Add interactive buttons</li>
+      <li>Third thing: Add pictures and gifs</li>
+    </ul>
+
+    <p><a href ="https://twitter.com/CakesTrash"> yerrrrr </a></p>
+    
+    <p>To learn more HTML/CSS, check out these <a href="https://neocities.org/tutorials">tutorials</a>!</p>
+  </body>
+</html>
