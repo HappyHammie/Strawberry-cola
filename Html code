@@ -9,7 +9,9 @@
          This makes it easier to make new pages for your site. -->
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
   </head>
+ <div style="background-image: url('heven.jpg');"> 
   <body style="background-color: pink;" 
+    
     <h1>Welcome to my Website! </h1>
     <h3> It's currently still under construction, but I give it a week before I make anything bareable to look at</h3>
 
@@ -24,15 +26,17 @@
     <p>~~~~~~~~~~~~~</p>
       <img src="/paint.png">
 
-    <h2>Stuff I'll try to get done</h2>
+        <h2>Portal</h2>
     <ul>
-      <li>First thing: Add a colored background</li>
-      <li>Second thing:Add interactive buttons</li>
-      <li>Third thing: Add pictures and gifs</li>
+      <li> <a href="https://strawberrycola.neocities.org/blog.html"></a>Blog</li>
+      <li><a href="https://strawberrycola.neocities.org/Anime.html"></a>Anime Shelf</li>
+      <li><a href="https://strawberrycola.neocities.org/Tech.html"></a>Computer room</li>
+    <li><a href="https://strawberrycola.neocities.org/music.html"></a>Music room</li>
     </ul>
-
-    <p><a href ="https://twitter.com/CakesTrash"> yerrrrr </a></p>
+    <p>Peep my<a href ="https://twitter.com/CakesTrash"> Twitter </a></p>
     
     <p>To learn more HTML/CSS, check out these <a href="https://neocities.org/tutorials">tutorials</a>!</p>
   </body>
 </html>
+
+
